@@ -1,16 +1,52 @@
-### Hi there 👋
+# Welcome!
 
-<!--
-**AmazingMech2418/AmazingMech2418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I'm **AmazingMech2418**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"AmazingMech2418" has, over the past few years, become a pseudonym for myself. I use AmazingMech2418 as my username on many websites such as [Repl.it](https://repl.it/@AmazingMech2418), [Scratch](https://scratch.mit.edu/users/AmazingMech2418), and, of course, where you are right now: [GitHub!](https://github.com/AmazingMech2418)
+
+If you come across a username of "AM2418" instead, that might still be me (especially if AmazingMech2418 doesn't fit in the username length limit).
+
+## My Skills
+
+I am a...
+- Ethical hacker/penetration tester
+- Programmer
+- Web developer
+- Game developer
+- Software developer
+- Fullstack JS developer
+- And **more**!
+
+
+I also program in many programming languages, mainly JavaScript/TypeScript, Python, C/C++, Java, and Bash, but also know the basics of other languages such as
+- APL (please, no... I don't have an APL keyboard...)
+- BASIC/QBasic/TI-BASIC
+- Crystal/Ruby
+- C#
+- D
+- Dart
+- Elixir/Erlang (these are very annoying...)
+- Forth
+- Fortran
+- F#
+- Go
+- Haskell
+- Julia
+- Kotlin
+- Lisp (mainly Scheme, Clojure, and Emacs Lisp)
+- LOLCODE (yes, an esolang)
+- Lua
+- Nim
+- PHP
+- R
+- Raku/Perl 6
+- Reason (not my favorite, but not *too* bad...)
+- Rust
+- Scala
+- Swift
+- Tcl (also, not my favorite...)
+
+Of course, among these langauges even, I have my preferences, but I can program in any of them if needed (given documentation for anything I don't know in them, such as string methods)
+
