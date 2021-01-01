@@ -53,7 +53,9 @@ Of course, among these langauges even, I have my preferences, but I can program 
 
 ## Stats
 
+![Profile Views](https://gpvc.arturio.dev/AmazingMech2418)
+
 ![GH Stats](https://github-readme-stats.vercel.app/api?username=AmazingMech2418&theme=blue-green)
 ![Top Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingMech2418&layout=compact&theme=blue-green)
 
-[Repo used for stats](https://github.com/anuraghazra/github-readme-stats)
+[Repo used for stats](https://github.com/anuraghazra/github-readme-stats) with some help from [this.](https://github.com/Naereen/badges)
