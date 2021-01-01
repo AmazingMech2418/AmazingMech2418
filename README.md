@@ -50,3 +50,10 @@ I also program in many programming languages, mainly JavaScript/TypeScript, Pyth
 
 Of course, among these langauges even, I have my preferences, but I can program in any of them if needed (given documentation for anything I don't know in them, such as string methods)
 
+
+## Stats
+
+![GH Stats](https://github-readme-stats.vercel.app/api?username=AmazingMech2418&theme=blue-green)
+![Top Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingMech2418&layout=compact&theme=blue-green)
+
+[Repo used for stats](https://github.com/anuraghazra/github-readme-stats)
