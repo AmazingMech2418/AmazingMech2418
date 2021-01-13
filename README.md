@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 I'm **AmazingMech2418**.
 
-"AmazingMech2418" has, over the past few years, become a pseudonym for myself. I use AmazingMech2418 as my username on many websites such as [Repl.it](https://repl.it/@AmazingMech2418), [Scratch](https://scratch.mit.edu/users/AmazingMech2418), and, of course, where you are right now: [GitHub!](https://github.com/AmazingMech2418)
+"AmazingMech2418" has, over the past few years, become a pseudonym for myself. I use AmazingMech2418 as my username on many different websites.
 
 If you come across a username of "AM2418" instead, that might still be me (especially if AmazingMech2418 doesn't fit in the username length limit).
 
