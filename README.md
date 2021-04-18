@@ -59,3 +59,9 @@ Of course, among these langauges even, I have my preferences, but I can program 
 ![Top Lang Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingMech2418&layout=compact&theme=blue-green)
 
 [Repo used for stats](https://github.com/anuraghazra/github-readme-stats) with some help from [this.](https://github.com/Naereen/badges)
+
+
+### More Stats
+
+![Metrics](https://metrics.lecoq.io/AmazingMech2418?template=classic&languages=1&followup=1&traffic=1&achievements=1&notable=1&skyline=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=false&config.timezone=America%2FNew_York)
+
