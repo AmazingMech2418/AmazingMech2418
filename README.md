@@ -65,3 +65,6 @@ Of course, among these langauges even, I have my preferences, but I can program 
 
 ![Metrics](github-metrics.svg)
 
+### Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AmazingMech2418&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
